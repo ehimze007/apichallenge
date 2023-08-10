@@ -1,0 +1,16 @@
+.items-layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 50px;
+  }
+  
+  .items {
+    background: whitesmoke;
+    border-radius: 20px;
+    border: 1px solid gray;
+    width: 30%;
+    text-align: center;
+  }
+  
